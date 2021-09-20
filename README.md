@@ -14,7 +14,7 @@ with: Dr. Lars Brünjes Director of Education at IOHK, and Dr. Andres Löh Partn
  - a Transaction type using record-syntax of a transaction
  - and, a processTransaction function to insert two entries per transaction
  - - one pair type from-account and second pair type to-account
- - - formula: insert fromBal (fbalance - x)  (insert toBal (tbalance + x) list-of-pairs)
+ - - formula: insert fromUser (fbalance - x)  (insert toUser (tbalance + x) list-of-pairs)
 
 [//]: # 
    [videos]: <https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm>
